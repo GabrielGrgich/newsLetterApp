@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "news-letter-app",
+    "slug": "snack-b2f2bd12-1871-45ce-afc1-8e128e094c3d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.testuser.News Letter App"
+    },
+    "android": {
+      "package":"com.testuser.News Letter App"
+      },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
